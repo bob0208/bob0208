@@ -1,13 +1,16 @@
-
+#EXTM3U
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)" tvg-id="pervy", Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/ZjDLYT-IqID32VWZ2y9txg,1741204801/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/skJoftdIoIHxYa-UUNn5tA,1741204802/streaming/1kanalplus2/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/sk3mTr01i0MoXYyQI1bfXg,1741204802/streaming/1kanalplus4/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 catchup="default" group-title="Lime (VPN 🇷🇺)", Первый канал (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/kXFm7OIwYVm7xyzAeQxAuw,1741204802/streaming/1kanalplus6/324/1/tracks-v5a1/mono.m3u8
